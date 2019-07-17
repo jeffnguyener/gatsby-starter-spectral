@@ -11,8 +11,7 @@ import banner from '../assets/images/banner.jpg';
 const IndexPage = () => <Layout>
 	<article id="main">
 		<header>
-			<h2>Elements</h2>
-			<p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
+			<h2>Projects</h2>
 		</header>
 		<section className="wrapper style5">
 			<div className="inner">
